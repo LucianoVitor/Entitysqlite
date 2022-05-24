@@ -1,0 +1,2 @@
+# Entitysqlite
+Repositório SQL
